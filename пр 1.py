@@ -8,3 +8,4 @@ if a1 == b1 or a2 == b2 or abs(a1 - b1) == abs(a2 - b2):
     print("Бьют")
 else :
         print("Не бьют")
+print("Код изменен в ветке edits")
